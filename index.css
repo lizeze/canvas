@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+#canvas {
+    background: red;
+}
+
+body {
+
+}
+
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+.actions{
+    position: fixed;
+    top: 10px;
+    left: 0px;
+}
