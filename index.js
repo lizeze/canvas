@@ -95,7 +95,7 @@ function listenToUser() {
 }
 
 function clearRect(x, y, w, h) {
-    ctx.clearRect(x, y, w ? w : 30, h ? h : 30)
+    ctx.clearRect(x - 5, y - 5, w ? w : 30, h ? h : 30)
 }
 
 
@@ -148,5 +148,7 @@ download.onclick = function () {
 
 clear.onclick = function () {
     ctx.clearRect(0, 0, canvas.width, canvas.height)
+    ctx.fillStyle = 'white'
+    ctx.fillRect(0, 0, canvas.width, canvas.height)
 
 }

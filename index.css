@@ -9,10 +9,13 @@ ul, ol li {
 }
 
 #canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 body {
- overflow: hidden;
+    overflow: hidden;
 }
 
 .icon {

@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2b3832-f291-44fb-897f-b93d990be0d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/jquery3.4.1/jquery3.4.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/demo_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/demo_index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/font/iconfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/lib/font/iconfont.woff2" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="149" column="51" selection-start-line="149" selection-start-column="51" selection-end-line="149" selection-end-column="51" />
+            <state relative-caret-position="63">
+              <caret line="151" column="51" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
               <folding>
                 <element signature="e#322#339#0" />
                 <element signature="e#367#375#0" />
@@ -58,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -103,9 +93,9 @@
         <option value="$PROJECT_DIR$/index3.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lib/jquery3.4.1/jquery3.4.1.js" />
-        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.css" />
       </list>
     </option>
   </component>
@@ -199,12 +189,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560397918415</updated>
       <workItem from="1560397919645" duration="7945000" />
-      <workItem from="1560474513029" duration="5780000" />
+      <workItem from="1560474513029" duration="6790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13725000" />
+    <option name="totallyTimeSpent" value="14735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="776" extended-state="0" />
@@ -222,7 +212,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.11195159" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.10892587" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -266,13 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/font/demo_index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -285,12 +268,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="149" column="51" selection-start-line="149" selection-start-column="51" selection-end-line="149" selection-end-column="51" />
+        <state relative-caret-position="63">
+          <caret line="151" column="51" selection-start-line="151" selection-start-column="51" selection-end-line="151" selection-end-column="51" />
           <folding>
             <element signature="e#322#339#0" />
             <element signature="e#367#375#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
