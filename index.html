@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Title</title>
+    <title> 我的画板</title>
     <link href="index.css" rel="stylesheet">
 </head>
 <body>
+<canvas id="canvas"></canvas>
 <div class="actions">
 
     <svg id="brush" class="icon active" aria-hidden="true">
@@ -15,7 +16,7 @@
     <svg id="earser" class="icon" aria-hidden="true">
         <use xlink:href="#icon-xiangpica"></use>
     </svg>
-    <svg  id="clear" i class="icon" aria-hidden="true">
+    <svg id="clear" i class="icon" aria-hidden="true">
         <use xlink:href="#icon-clear"></use>
     </svg>
     <svg id="download" class="icon" aria-hidden="true">
@@ -26,7 +27,7 @@
 <ul class="colors" id="colors">
 
 </ul>
-<canvas id="canvas"></canvas>
+
 </body>
 <script src="lib/jquery3.4.1/jquery3.4.1.min.js"></script>
 <script src="./index.js"></script>
